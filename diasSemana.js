@@ -34,7 +34,7 @@ var manana = diasSemana[(date.getDay() + 1) % 7]
 
 
 
-//Función que despliega al alerta
+//Función que despliega la alerta
 function mostrarAlerta(tipo) {
 	alerta.crearAlerta(tipo);
 
